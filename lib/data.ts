@@ -55,7 +55,7 @@ export const experiencesData = [
     description:
       "I'm now a full-stack developer working as a Data Analyst. My project consists of deriving detailed human-readable results by performing data analysis on incoming information and using AI to transform it into Clear and concise texts.",
     icon: React.createElement(FaPython),
-    date: " April 2023 - present",
+    date: " April 2023 - Sept 2023",
   },
 ] as const;
 
